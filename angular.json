@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "angular3line"
+  "defaultProject": "angular3line",
+  "cli": {
+    "analytics": "1b5b2d3b-37f7-494b-9a6a-bf26f84c2805"
+  }
 }
