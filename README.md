@@ -3,7 +3,7 @@
 This is a simple version of the classic game Three in Line generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3. and using a couple of things from Angular Material
 
 ## Preview
-![Screenshot-1](src\assets\screenshots\Angular3line-1.png)
+![Screenshot-1](https://i.ibb.co/M29DdPr/2021-03-25-21-54-51-Angular3line.png)
 
 ## Development server
 
