@@ -1,13 +1,14 @@
 {
   "name": "angular3line",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
+    "deploy": "ng build --prod --base-href=/angular3line/",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e"    
   },
   "private": true,
   "dependencies": {
